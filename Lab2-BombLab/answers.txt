@@ -1,0 +1,6 @@
+Phase 1: When a problem comes along, you must zip it!
+Phase 2: 0 1 1 2 3 5
+Phase 3: 2 a 241
+Phase 4:
+Phase 5:
+Phase 6:
